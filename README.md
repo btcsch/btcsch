@@ -8,7 +8,7 @@
 
 ---
 
-- Lightning Wallet
-  - warringgorilla61@walletofsatoshi.com
 - X Account
   - <https://x.com/btcsch_>
+- Lightning Wallet
+  - warringgorilla61@walletofsatoshi.com
