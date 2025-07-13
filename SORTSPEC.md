@@ -1,10 +1,10 @@
 ---
 aliases: 
 cssclasses: 
-tags:
+tags: 
 sorting-spec: |-
   target-folder: /*
-  /:files
   /folders
+  /:files
   < vsc-unicode
 ---
