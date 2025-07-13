@@ -11,4 +11,4 @@
 - Lightning Wallet
   - warringgorilla61@walletofsatoshi.com
 - X Account
-  - https://x.com/btcsch_
+  - <https://x.com/btcsch_>
